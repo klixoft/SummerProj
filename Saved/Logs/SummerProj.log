@@ -694,3 +694,12 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.07.08-17.27.17:591][143]LogSavePackage: Moving '../../../../../../Users/alton/Documents/Unreal Projects/SummerProj/Saved/TestPC20078AA04EE2DC462A532A87FDB46E82.tmp' to '../../../../../../Users/alton/Documents/Unreal Projects/SummerProj/Content/Blueprints/TestPC.uasset'
 [2019.07.08-17.27.43:574][  3]SourceControl: Source control is disabled
 [2019.07.08-17.27.43:574][  3]LogSlate: Window 'Source Control Login' being destroyed
+[2019.07.08-18.17.13:498][227]BlueprintLog: New page: Compile TestPC
+[2019.07.08-18.17.13:665][227]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2019.07.08-18.17.50:860][197]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2019.07.08-18.17.50:860][197]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Untitled' took 0.031
+[2019.07.08-18.17.50:861][197]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/TestPC] ([1] browsable assets)...
+[2019.07.08-18.17.50:861][197]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/TestPC]
+[2019.07.08-18.17.50:912][197]LogSavePackage: Moving '../../../../../../Users/alton/Documents/Unreal Projects/SummerProj/Saved/TestPC_Auto23F2D3A164CE790BC035B3990F37DBCF9.tmp' to '../../../../../../Users/alton/Documents/Unreal Projects/SummerProj/Saved/Autosaves/Game/Blueprints/TestPC_Auto2.uasset'
+[2019.07.08-18.17.50:913][197]LogFileHelpers: Auto-saving content packages took 0.052
+[2019.07.08-18.22.21:697][395]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/TestGM.TestGM
