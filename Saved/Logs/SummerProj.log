@@ -631,3 +631,12 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.07.15-12.58.58:332][752]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
 [2019.07.15-12.58.58:332][752]SourceControl:  create mode 100644 Content/Blueprints/newtest.uasset
 [2019.07.15-12.58.58:336][752]SourceControl: Commited [master 70884fa] test.
+[2019.07.15-13.08.26:782][597]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2019.07.15-13.08.32:695][597]LogSlate: Window 'Delete Assets' being destroyed
+[2019.07.15-13.08.32:699][597]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Blueprints/newtest.newtest
+[2019.07.15-13.08.33:156][597]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2019.07.15-13.08.33:184][597]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2019.07.15-13.08.33:206][597]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2019.07.15-13.08.33:366][597]SourceControl: Error: Updated 0 paths from the index
+[2019.07.15-13.08.33:483][597]SourceControl: rm 'Content/Blueprints/newtest.uasset'
