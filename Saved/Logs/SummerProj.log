@@ -614,3 +614,20 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.07.15-12.58.12:635][999]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
 [2019.07.15-12.58.12:635][999]SourceControl:  create mode 100644 Content/Blueprints/test.uasset
 [2019.07.15-12.58.12:639][999]SourceControl: Commited [master c525954] test asset.
+[2019.07.15-12.58.49:666][204]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2019.07.15-12.58.49:666][204]LogMetaData: Removing '/Game/Blueprints/newtest.newtest:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/test.PackageMetaData'
+[2019.07.15-12.58.49:666][204]LogMetaData: Removing '/Game/Blueprints/newtest.SKEL_newtest_C' ref from Metadata '/Game/Blueprints/test.PackageMetaData'
+[2019.07.15-12.58.49:666][204]LogMetaData: Removing '/Game/Blueprints/newtest.newtest_C' ref from Metadata '/Game/Blueprints/test.PackageMetaData'
+[2019.07.15-12.58.49:666][204]LogMetaData: Removing '/Game/Blueprints/newtest.newtest:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/test.PackageMetaData'
+[2019.07.15-12.58.49:666][204]LogMetaData: Removing '/Game/Blueprints/newtest.newtest:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/test.PackageMetaData'
+[2019.07.15-12.58.49:666][204]LogMetaData: Removing '/Game/Blueprints/newtest.newtest:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/test.PackageMetaData'
+[2019.07.15-12.58.49:678][204]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/newtest" FILE="../../../../../../Users/alton/Documents/Unreal Projects/SummerProj/Content/Blueprints/newtest.uasset" SILENT=true
+[2019.07.15-12.58.49:686][204]LogSavePackage: Moving '../../../../../../Users/alton/Documents/Unreal Projects/SummerProj/Saved/newtest63A9AE81448E0EBC1F261B88A780AEDB.tmp' to '../../../../../../Users/alton/Documents/Unreal Projects/SummerProj/Content/Blueprints/newtest.uasset'
+[2019.07.15-12.58.49:795][204]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/test" FILE="../../../../../../Users/alton/Documents/Unreal Projects/SummerProj/Content/Blueprints/test.uasset" SILENT=true
+[2019.07.15-12.58.49:812][204]LogSavePackage: Moving '../../../../../../Users/alton/Documents/Unreal Projects/SummerProj/Saved/test0567B3344070294422D1AF927CD33ABC.tmp' to '../../../../../../Users/alton/Documents/Unreal Projects/SummerProj/Content/Blueprints/test.uasset'
+[2019.07.15-12.58.58:080][752]LogSlate: Window 'Submit Files' being destroyed
+[2019.07.15-12.58.58:288][752]LogSourceControl: commit successful: [master 70884fa] test
+[2019.07.15-12.58.58:332][752]SourceControl: [master 70884fa] test
+[2019.07.15-12.58.58:332][752]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2019.07.15-12.58.58:332][752]SourceControl:  create mode 100644 Content/Blueprints/newtest.uasset
+[2019.07.15-12.58.58:336][752]SourceControl: Commited [master 70884fa] test.
