@@ -2,7 +2,10 @@ Binaries
 DerivedDataCache
 Intermediate
 Saved
+<<<<<<< HEAD
 Plugins
+=======
+>>>>>>> parent of 8e357ce... Fixed
 .vscode
 .vs
 *.VC.db
